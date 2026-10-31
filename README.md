@@ -3,7 +3,7 @@
 스팀판 **전국무쌍 4 DX (SAMURAI WARRIORS 4 DX)** 를 한국어로 즐길 수 있게 해주는 비공식 한글패치입니다.
 
 > 📖 **설치 방법, 스크린샷, 업데이트 소식은 블로그에서 확인하세요**
-> 👉 https://mirorong0323.tistory.com
+> 👉 https://mirorong0323.tistory.com/1
 
 ## 다운로드
 
